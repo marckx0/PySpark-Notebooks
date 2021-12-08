@@ -1,2 +1,2 @@
 # PySpark-Notebooks
-Notebooks Desarollados en un Curso de BigData
+Notebooks Desarrollados en un Curso de BigData
